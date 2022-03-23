@@ -1,0 +1,19 @@
+{
+  "name": "coffeess",
+  "version": "0.1.0",
+  "description": "☕ A simplified syntax of css",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./lib/reader.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thijsrijkers/coffeess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thijsrijkers/coffeess/issues"
+  },
+  "homepage": "https://github.com/thijsrijkers/coffeess#readme"
+}
