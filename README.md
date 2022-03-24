@@ -1,5 +1,5 @@
-<br>
-<span style="font-size: 30px; vertical-align: middle; line-height: 2;" align="center">☕ </span>
+
+####☕ 
 <h4 align="center">CoffeeSS</h4>
 
 <p align="center">
