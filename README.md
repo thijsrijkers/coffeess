@@ -1,6 +1,5 @@
 
-<h3 align="center">☕</h3>
-<h4 align="center">CoffeeSS</h4>
+<h3 align="center">☕ CoffeeSS</h3>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/coffeess"><img src="https://img.shields.io/npm/v/coffeess.svg?color=%fcba03&sanitize=true" alt="NPM"></a>
