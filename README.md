@@ -6,7 +6,7 @@
   <a href="https://www.npmjs.com/package/coffeess"><img src="https://img.shields.io/npm/v/coffeess.svg?color=%fcba03&sanitize=true" alt="NPM"></a>
 </p>
 <br>
-<p> CoffeeSS (called coffees) is a small library that translate a custom CSS syntax that can be used inside a .COSS file. You can used by simply installing it with the NPM CLI:</p>
+<p> CoffeeSS (called coffees) is a small library that translate a custom CSS syntax that can be used inside a .COSS file. You can use it by simply installing it with the NPM CLI:</p>
 
 ```shell
 npm i coffeess
