@@ -8,6 +8,18 @@
 <br>
 <p> CoffeeSS (called coffees) is a small library that translate a custom CSS syntax that can be used inside a .COSS file. You can used by simply installing it with the NPM CLI:</p>
 
-```NPM
+```shell
 npm i coffeess
+```
+
+CoffeeSS has a simple syntax thats easy to understand. A example of this syntax is as followed:
+
+```shell
+id test 
+  font-family: verdana
+  font-size: 20px
+
+class test 
+  font-family: verdana
+  font-size: 20px
 ```
