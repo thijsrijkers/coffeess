@@ -1,5 +1,5 @@
 <br>
-<H2 align="center">☕ </H2>
+<H1 align="center">☕ </H1>
 <h4 align="center">CoffeeSS</h4>
 
 <p align="center">
