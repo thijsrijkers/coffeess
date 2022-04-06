@@ -8,7 +8,7 @@ CoffeeSS (called coffees) is a small library that translate a custom CSS syntax 
 npm i coffeess
 ```
 
-CoffeeSS has a simple syntax thats easy to understand. The idea of this syntax is to create a smoothed out version of the css syntax. With this syntax the developer doenst have to use brackets, semicolons and standard class/id tags. A example of this syntax is as followed:
+CoffeeSS has a simple syntax thats easy to understand. The idea of this syntax is to create a smoothed out version of the css syntax. With this syntax the developer doesnt have to use brackets, semicolons and standard class/id tags. A example of this syntax is as followed:
 
 ```shell
 id test 
